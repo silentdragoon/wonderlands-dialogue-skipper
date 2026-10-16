@@ -1,0 +1,1 @@
+# DialogSkipMod enabled marker for legacy UE4SS versions

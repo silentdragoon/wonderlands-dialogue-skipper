@@ -1,0 +1,12 @@
+[project]
+name = "dialog_skipper"
+version = "2.1.0"
+authors = [{ name = "apple1417" }, { name = "Antigravity Modernized" }]
+description = "Adds keybinds to skip dialogue and fast-forward quest stalls in Tiny Tina's Wonderlands."
+
+[project.urls]
+Changelog = "changelog.md"
+
+[tool.sdkmod]
+name = "Dialog Skipper"
+license = { name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }

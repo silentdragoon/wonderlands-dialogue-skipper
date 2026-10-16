@@ -1,0 +1,7 @@
+; ==============================================================================
+; UE4SS mods.txt configuration file
+; Used by RE-UE4SS v2.5.2+ and v3.0+ to enable or disable Lua mods.
+; Format: <ModFolderName> : <1 to enable, 0 to disable>
+; ==============================================================================
+
+DialogSkipMod : 1
