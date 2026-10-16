@@ -5,7 +5,7 @@
 [![Framework](https://img.shields.io/badge/Framework-RE--UE4SS%20%7C%20PythonSDK-brightgreen.svg)](https://github.com/bl-sdk/oak-mod-manager)
 [![Version](https://img.shields.io/badge/Version-2.1.0-orange.svg)](#changelog)
 
-A modernized, high-performance quality-of-life mod for **Tiny Tina's Wonderlands** (and compatible with **Borderlands 3**) that adds a customizable hotkey (**F6** by default) to instantly skip currently playing dialogue lines, plus an optional Fast-Forward hotkey (**F7**) to bypass slow NPC walking animations and elevator pacing stalls.
+A modernized, high-performance quality-of-life mod for **Tiny Tina's Wonderlands** (and compatible with **Borderlands 3**) that adds a customizable hotkey (**F6** by default) to instantly skip currently playing dialogue lines, plus an optional Fast-Forward hotkey (**F7**) to bypass slow NPC walking animations and elevator pacing stalls. Written by AI (Gemini).
 
 ---
 
